@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /*
 Dados 3 valores (possíveis lados) verificar se eles formam um triângulo,
-e em caso positivo, dizer se é equilátero, isósceles ou escaleno;
+e em caso positivo, dizer se é equilátero, isósceles ou escaleno.
  */
 public class Exercicio02 {
   public static void main(String[] args){
